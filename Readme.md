@@ -85,7 +85,6 @@ The Excel workbook contains:
 
 - Name
 - Email
-- Website
 - Location
 - Phone
 - Category
